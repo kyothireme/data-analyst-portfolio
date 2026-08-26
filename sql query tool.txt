@@ -1,0 +1,8 @@
+SELECT 
+    DATE_TRUNC('month', date) AS month,
+    product_category,
+    SUM(total_amount) AS revenue,
+    ROUND(100 * SUM(total_amount) / SUM(SUM(total_amount)) OVER (PARTITION BY DATE_TRUNC('month', date)), 2) AS category_share_per_month
+FROM "Share of revenue by month"
+GROUP BY month, product_category
+ORDER BY month, revenue DESC;

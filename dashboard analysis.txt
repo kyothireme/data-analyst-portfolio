@@ -1,0 +1,97 @@
+Анализ по сегментам
+
+1. Мужчины
+Наибольшая доля покупок приходится на электронику, далее — одежда. Красота занимает наименьшую долю.
+Средний чек: 455
+
+2. Женщины
+Женщины формируют более высокую выручку по сравнению с мужчинами. Распределение покупок между электроникой, одеждой и товарами для красоты более равномерное.
+Средний чек: 457
+
+3. Возраст 18–35
+Наиболее высокая выручка среди возрастных групп. Электроника занимает ведущую позицию, при этом значительны покупки одежды и товаров для красоты.
+Средний чек: 489
+
+4. Мужчины 18–35
+Основные категории — электроника и одежда. Доля товаров для красоты минимальна. Выручка выше, чем у мужчин 50+.
+Средний чек: 476
+
+5. Женщины 18–35
+Наиболее высокая выручка среди рассматриваемых гендерно-возрастных сегментов. Покупки относительно равномерно распределены между тремя категориями.
+Средний чек: 503
+
+6. Возраст 35–50
+Объём спроса ниже, чем в группе 18–35. У женщин структура покупок остаётся относительно равномерной, у мужчин преобладает электроника.
+Средний чек: 451
+
+7. Мужчины 35–50
+Основные категории — электроника и одежда. Товары для красоты имеют наименьшую долю.
+Средний чек: 467
+
+8. Женщины 35–50
+Электроника занимает последнее место, равные доли держат одежда и товары для красоты.
+Средний чек: 436
+
+9. Возраст 50+
+Самая низкая выручка среди возрастных групп. Электроника остаётся основной категорией, особенно среди мужчин.
+Средний чек: 426
+
+10. Мужчины 50+
+Наименьшая выручка среди гендерно-возрастных сегментов. Около 49% покупок приходится на электронику; доля товаров для красоты минимальна.
+Средний чек: 422
+
+11. Женщины 50+
+Выручка выше, чем у мужчин того же возраста. Основные категории — электроника и одежда, затем товары для красоты.
+Средний чек: 430
+
+Ключевые выводы
+Электроника — наиболее востребованная категория в большинстве сегментов.
+Женщины 18–35 — сегмент с наибольшей выручкой.
+Мужчины 50+ — сегмент с наименьшей выручкой.
+Женская аудитория демонстрирует более равномерное распределение покупок между категориями.
+У мужчин во всех возрастных группах заметно преобладает электроника.
+Доля товаров для красоты наиболее низкая среди мужчин, особенно в группе 50+.
+
+
+Segment Analysis
+
+1. Men
+The largest share of purchases is concentrated in electronics, followed by clothing. Beauty products account for the smallest share.
+
+2. Women
+Women generate higher revenue compared with men. Their purchases are more evenly distributed across electronics, clothing, and beauty products.
+
+3. Age 18–35
+This age group generates the highest revenue among all age groups. Electronics is the leading category, while clothing and beauty products also account for significant shares.
+
+4. Men aged 18–35
+The main categories are electronics and clothing. Beauty products account for a minimal share. Revenue is higher than among men aged 50+.
+
+5. Women aged 18–35
+This is the highest-revenue gender-age segment. Purchases are relatively evenly distributed across the three categories.
+
+6. Age 35–50
+Demand is lower than in the 18–35 group. Among women, purchases remain relatively evenly distributed, while electronics dominate among men.
+
+7. Men aged 35–50
+The main categories are electronics and clothing. Beauty products account for the smallest share.
+
+8. Women aged 35–50
+Electronics ranks first, followed by clothing and beauty products.
+
+9. Age 50+
+This is the lowest-revenue age group. Electronics remains the leading category, particularly among men.
+
+10. Men aged 50+
+This is the lowest-revenue gender-age segment. Approximately 49% of purchases are in electronics, while beauty products account for a minimal share.
+
+11. Women aged 50+
+Revenue is higher than among men in the same age group. The main categories are electronics and clothing, followed by beauty products.
+
+Key Findings
+Electronics is the most prominent category across most segments.
+Women aged 18–35 represent the highest-revenue segment.
+Men aged 50+ represent the lowest-revenue segment.
+Women demonstrate a more balanced distribution of purchases across categories.
+Electronics clearly dominates men's purchases across all age groups.
+The share of beauty products is lowest among men, particularly those aged 50+.
